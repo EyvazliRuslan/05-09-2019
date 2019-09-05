@@ -10,7 +10,8 @@
 <li>git status (hansi fayllarin olduguna baxir)</li>
 <li>git add . (faylimin icinde olan her bir melumati secir)</li>
 <li>git commit -m "Istediyiniz ad" (Deyisikleri yadda saxlayir)</li>
-<li>git push (Yaratdiqiniz reposterinin linki misal:https : <h5>//github.com/EyvazliRuslan/05-09-2019_Github.git </h5>) master</li>
+<li>git push (Yaratdiqiniz reposterinin linki misal:https : <br>
+ <h5>//github.com/EyvazliRuslan/05-09-2019_Github.git </h5>) master</li>
 </ul>
 <br>
 <h4>Git bash endirmə linki : https://git-scm.com/downloads </h4>
