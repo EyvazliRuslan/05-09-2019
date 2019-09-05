@@ -6,11 +6,11 @@
 <br>
 <h4>Aşağıdakı commandları git bash ile githuba fayl atarken yazacaqsiniz</h4>
 <ul>
-<li>git init(github fayilini tanidir)</li>
+<li>git init (github fayilini tanidir)</li>
 <li>git status (hansi fayllarin olduguna baxir)</li>
 <li>git add . (faylimin icinde olan her bir melumati secir)</li>
 <li>git commit -m "Istediyiniz ad" (Deyisikleri yadda saxlayir)</li>
-<li>git push (Yaratdiqiniz reposterinin linki misal:https : <br>
+<li>git push (Yaratdiqiniz reposterinin linki misal:https : 
  <h5>//github.com/EyvazliRuslan/05-09-2019_Github.git </h5>) master</li>
 </ul>
 <br>
