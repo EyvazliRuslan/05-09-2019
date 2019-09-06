@@ -15,3 +15,5 @@
 </ul>
 <br>
 <h4>Git bash endirmə linki : https://git-scm.com/downloads </h4>
+<br>
+<h4>Bun linkden kecdiyimiz taglara nezer yetirersiniz : https://www.w3schools.com/tags/ </h4>
